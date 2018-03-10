@@ -1,2 +1,2 @@
 # JC2MP-New-Interface-v2
-New interface for Just Cause 2 Multiplayer!
+Installation: unzip files from the archive to the root folder of the game. (Russian is slightly different from English and Turkish!)
